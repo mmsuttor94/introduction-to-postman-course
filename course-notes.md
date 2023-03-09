@@ -4,7 +4,7 @@
 
  ### Lesson 1 - Welcome
 
- #### 💡 - Main ideasjfhjkhdf
+ #### 💡 - Main ideas
 
  ### Lesson 2 - What is Postman?
 

@@ -8,7 +8,7 @@ The API is available at `https://simple-books-api.glitch.me`
 
 ### Status ###
 
-GET `/status`jdhfkjhjk
+GET `/status`
 
 Returns the status of the API.
 
